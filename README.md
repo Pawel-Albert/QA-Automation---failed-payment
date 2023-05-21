@@ -38,7 +38,6 @@ This project is an assessment project for QA Automation. It demonstrates an end-
 To run the tests, use the following command:
 
 ```bash
-  Copy code
   npm run cypress
 ```
 
